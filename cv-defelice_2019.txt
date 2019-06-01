@@ -1,0 +1,65 @@
+Michael DeFelice
+michael.defelice@gmail.com
+
+Summary:
+	"Michael is off-the-charts technical, and does an excellent job asserting his viewpoint across the organization … [he] is an innovator and stubbornly pushes for change despite internal lethargy and resistance … [he] is a good peer. People like to work with him and frequently loop him into their activities. He is eager to help out, curious and focused on delivering results, so he adds value wherever he goes." - Klee Kleber, Rackspace
+
+Technical Skills:
+	Data science in Python: primarily using the numpy, pandas, scikit-learn, xgboost, and keras packages; Google BigQuery; Apache Spark
+	Product incubation on Google Cloud: primarily using its Kubernetes, App Engine, Datastore, Pub/Sub, and Cloud Functions services to deploy web apps and APIs; expertise with Flask, Hugo, Bootstrap, HTML, javascript, and JQuery
+
+Work Experience:
+
+Jan 2018 - Present
+CyberFortress
+
+As CTO,I am responsible for all R&D & technical operations for an insurtech startup focused on building a new kind of cyber insurance policy for e-commerce businesses
+
+Key contributions include:
+* Build an ML-based underwriting model that determined a company’s risk of downtime in seconds from just an email address
+* Developed a method for continuous, internet-scale data collection across hundreds of thousands of ecommerce domains & thousands of technology features
+* Worked with our Product Lead & UX developer to launch downtime risk score offering
+
+May 2016 - Present
+Jungle Disk
+
+As Principal Data Scientist primarily focused on Jungle Disk’s growth,
+* Worked with the CEO to model & manage IB price changes that significantly contributed to revenue growth in a shrinking market
+* Performed financials analysis, modeling, and forecasting. Explored customer growth behaviors & digital marketing performance over time (incl. per-channel LTV)
+* Wrote & automated the delivery of custom reports that continuously present the business’s KPIs
+* Developed IP; filed patents on key initiatives & areas of development; also performed technical due diligence for strategic acquisitions
+* Built & integrated our digital marketing, lead gen, and sales operations platforms
+
+Apr 2013 - Apr 2017
+GoodTokens
+
+As the Technical Co-Founder, I developed the product strategy & built the backend services for an HR & culture management platform.
+
+Jun 2010 - May 2016
+Rackspace
+
+As a Principal Architect, I was responsible for the diligence & build of incubation projects including its Google Apps business and what are now its Microsoft Private Cloud & Office 365 product offerings.
+
+Prior to this, I worked in Corporate Development performing technical due diligence on M&A, investments, partnerships, and post-merger integrations.
+
+Prior to this, I lead architecture for the Managed Storage, Backup, and Virtualization product lines - working closely with & across the Product, Support, and Infrastructure Operations teams to evolve our enterprise solutions portfolio.
+
+Feb 2006 - Jun 2010
+Tesoro
+
+As an Enterprise Architect, I was responsible for the design of the company's data center storage, server, virtualization, and backup technologies in an environment keen on continuous availability and minimizing costs.
+
+As a Systems Engineer, for the technical operations of these systems.
+
+Oct 2004 - Feb 2006
+Strategic Business Systems
+
+As a consultant, I represented Dell - delivering highly-available storage & server solutions to enterprise clients across the country.
+
+Education:
+	1999 - 2003: Ursinus College; BS Computer Science
+
+Volunteer Experience:
+	May 2017 - Present: Mentor, RealCo
+	Feb 2017 - Present: Volunteer, Moms Demand Action for Gun Sense in America
+
