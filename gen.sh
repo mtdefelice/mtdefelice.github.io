@@ -13,7 +13,7 @@ cat << EOF > $OUT
 <title>Michael DeFelice</title>
 </head>
 <body>
-<pre>
+<pre style = 'white-space: pre-wrap;'>
 EOF
 
 cat cv-defelice_2019.txt >> $OUT
