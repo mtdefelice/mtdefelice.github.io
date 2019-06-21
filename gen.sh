@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Write to this file
-OUT=docs/index.html
+OUT=index.html
 
 cat << EOF > $OUT
 <!doctype html>
