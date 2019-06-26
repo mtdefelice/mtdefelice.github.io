@@ -2,7 +2,7 @@ Michael DeFelice
 michael.defelice@gmail.com
 
 Summary:
-	"Michael is off-the-charts technical, and does an excellent job asserting his viewpoint across the organization ... [he] is an innovator and stubbornly pushes for change despite internal lethargy and resistance ... [he] is a good peer. People like to work with him and frequently loop him into their activities. He is eager to help out, curious and focused on delivering results, so he adds value wherever he goes." - Klee Kleber
+	"Michael is off-the-charts technical, and does an excellent job asserting his viewpoint across the organization ... [he] is an innovator and stubbornly pushes for change despite internal lethargy and resistance ... [he] is a good peer. People like to work with him and frequently loop him into their activities. He is eager to help out, curious and focused on delivering results, so he adds value wherever he goes." - Klee Kleber as SVP, Rackspace
 
 Technical Skills:
 	Data science in Python:
@@ -25,8 +25,10 @@ Key contributions include:
 May 2016 - Present
 Jungle Disk
 
-As Principal Data Scientist primarily focused on Jungle Disk's growth,
-* Worked with the CEO to model & manage IB price changes that significantly contributed to revenue growth in a shrinking market
+As Principal Data Scientist I worked closely with the CEO on strategic growth opportunities.
+
+Key contributions include:
+* Modeling & managing IB price changes that significantly contributed to revenue growth in a shrinking market
 * Performed financials analysis, modeling, and forecasting. Explored customer growth behaviors & digital marketing performance over time (incl. per-channel LTV)
 * Wrote & automated the delivery of custom reports that continuously present the business's KPIs
 * Developed IP; filed patents on key initiatives & areas of development; also performed technical due diligence for strategic acquisitions
@@ -40,18 +42,18 @@ As the Technical Co-Founder, I developed the product strategy & built the backen
 Jun 2010 - May 2016
 Rackspace
 
-As a Principal Architect, I was responsible for the diligence & build of incubation projects including its Google Apps business and what are now its Microsoft Private Cloud & Office 365 product offerings.
+As a Principal Architect, I was responsible for the diligence & build of incubation projects; prior to this, I worked in Corporate Development performing technical due diligence on M&A, investments, partnerships, and post-merger integrations. As Chief Infrastructure Services Architect, I led architecture for the Managed Storage, Backup, and Virtualization product lines.
 
-Prior to this, I worked in Corporate Development performing technical due diligence on M&A, investments, partnerships, and post-merger integrations.
-
-Prior to this, I lead architecture for the Managed Storage, Backup, and Virtualization product lines - working closely with & across the Product, Support, and Infrastructure Operations teams to evolve our enterprise solutions portfolio.
+Key contributions included:
+* Incubated the Google Apps for Work at Rackspace preview offering. Determined its market & product requirements. Designed & developed the systems for customer account provisioning, metering, billing, and integration into Google's reseller services
+* Incubated the Microsoft Private Cloud & Office 365 offerings
+Supported the ZeroVM, Exceptional Cloud Services, and Object Rocket acquisitions & integrations
+* Built a team to create & vet the technical designs that comprised the Rackspace Managed Storage & Data Protection product offerings - working closely with & across the Product, Support, and Infrastructure Operations teams to evolve our enterprise solutions portfolio
 
 Feb 2006 - Jun 2010
 Tesoro
 
-As an Enterprise Architect, I was responsible for the design of the company's data center storage, server, virtualization, and backup technologies in an environment keen on continuous availability and minimizing costs.
-
-As a Systems Engineer, for the technical operations of these systems.
+As an Enterprise Architect, I was responsible for the design of the company's data center storage, server, virtualization, and backup technologies in an environment keen on continuous availability and minimizing costs; prior to this as a Systems Engineer, for the technical operations of these systems.
 
 Oct 2004 - Feb 2006
 Strategic Business Systems
@@ -64,4 +66,5 @@ Education:
 Volunteer Experience:
 	May 2017 - Present: Mentor at RealCo
 	Feb 2017 - Present: Volunteer with Moms Demand Action for Gun Sense in America
+	Jun 2016 - Present: Volunteer as a music teacher; teach music theory, guitar, and ukulele to children & adults
 
