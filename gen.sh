@@ -37,7 +37,7 @@ cat << EOF > $OUT
 <pre style = 'white-space: pre-wrap;'>
 EOF
 
-cat cv-defelice_2019.txt >> $OUT
+cat cv-defelice_2020.txt >> $OUT
 
 cat << EOF >> $OUT
 </pre>
