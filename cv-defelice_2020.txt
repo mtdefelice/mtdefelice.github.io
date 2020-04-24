@@ -15,7 +15,7 @@ Work Experience:
 Jan 2018 - Present
 CyberFortress
 
-As Co-Founder & CTO, I am responsible for all R&D & technical operations for an insurtech startup focused on building a new kind of cyber insurance policy for ecommerce businesses.
+As Co-Founder & CTO, I am responsible for R&D, scaling, and technical operations for an insurtech startup focused on building a new kind of cyber insurance policy for ecommerce businesses.
 
 Key contributions include:
 * Building an ML-based underwriting model that determined a company's risk of downtime in seconds from just an email address
