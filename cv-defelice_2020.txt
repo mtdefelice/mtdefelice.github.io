@@ -18,7 +18,7 @@ CyberFortress
 As Co-Founder & CTO, I am responsible for R&D, scaling, and technical operations for an insurtech startup focused on building a new kind of cyber insurance policy for ecommerce businesses.
 
 Key contributions include:
-* Building an ML-based underwriting model that determines a company's risk of an outage or unexpected downtime in seconds from just an email address
+* Built an ML-based underwriting model that determines a company's risk of an outage in seconds from just an email address or domain name
 * Developed a method for continuous, internet-scale data collection across hundreds of thousands of ecommerce domains
 * Worked with our Product Lead & UX developer to launch a downtime risk score offering
 * Completed a $3.2M seed round co-led by Greycroft & Live Oak Venture Partners
