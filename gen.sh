@@ -34,6 +34,7 @@ cat << EOF > $OUT
 <title>Michael DeFelice</title>
 </head>
 <body>
+<a href = 'Resume-DeFelice_2020.pdf'>Click for a *.pdf version.</a>
 <pre style = 'white-space: pre-wrap;'>
 EOF
 
