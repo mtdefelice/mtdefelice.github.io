@@ -28,7 +28,7 @@ Key contributions include:
 * Developed data collection, aggregation, and reporting pipelines that include determining the clinical effect of each patient's treatment as well as calculating billable RTM CPT codes from NOCTEM's platform usage - enabling customers to receive reimbursement for time spent treating their patients
 * Integrated enterprise auth (SAML via Auth0), reporting, and custom workflows for larger hospital systems
 * Established standards for code formatting, linting, testing, and documentation to minimize rework & technical debt
-* Established standard for work planning, management, and triage
+* Established standards for work planning, management, and triage
 
 Jan 2018 - Oct 2021
 CyberFortress
