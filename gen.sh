@@ -21,24 +21,25 @@ cat << EOF > $OUT
     "addressRegion": "TX",
     "postalCode": "78205"
   },
-  "jobTitle": "Co-Founder & CTO, CyberFortress",
+  "jobTitle": "Co-Founder & CTO",
   "name": "Michael T. DeFelice",
   "alumniOf": "Ursinus College",
   "url": "https://mtdefelice.github.io",
   "sameAs" : [
     "https://www.linkedin.com/in/mtdefelice",
-    "https://twitter.com/mtdefelice"
   ]
 }
 </script>
 <title>Michael DeFelice</title>
 </head>
 <body>
-<a href = 'Resume-DeFelice_2021.pdf'>Click for a *.pdf version.</a>
 <pre style = 'white-space: pre-wrap;'>
 EOF
 
-cat cv-defelice_2021.txt >> $OUT
+# Note: removed
+# <a href = 'Resume-DeFelice_2021.pdf'>Click for a *.pdf version.</a>
+
+cat cv-defelice_2025.txt >> $OUT
 
 cat << EOF >> $OUT
 </pre>
