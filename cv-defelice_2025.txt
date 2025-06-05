@@ -2,17 +2,16 @@ Michael DeFelice
 michael.defelice@gmail.com
 
 Summary:
-    Hands-on technology leader with deep expertise in product incubation, applied data science, and technical due diligence; 15+ years experience across various industries including cloud computing, SaaS, consulting, and has co-founded multiple startups
+    Hands-on technology leader with 15+ years experience across various industries including cloud computing, SaaS, consulting, and has co-founded multiple startups
 
 Skills:
-    Product incubation, applied data science, technical due diligence, technical leadership, systems architecture & engineering
+    Deep expertise in product incubation, applied data science, technical due diligence, technical leadership, systems architecture & engineering
 
 Languages, Frameworks, Libraries, and Cloud Infrastructure Expertise:
-	Product Incubation:
+    Product Incubation:
         JavaScript/Node.js APIs via Express, Mongoose, Mongo; Python APIs via Flask, Django REST Framework, SQL; microservices via Go, Python, and Node.js runtimes; JavaScript interfaces via React, React Native, Vue.js; CSS/SCSS via MUI, Tailwind; devops/standardization/automation via git, black, prettier, pylint, ESLint, Google Cloud Build, AWS CodeBuild
-	Applied Data Science:
+    Applied Data Science:
         Data processing & modeling via numpy, pandas, scikit-learn, xgboost, keras; data collection & storage via Google Cloud Run, Pub/Sub, Google BigQuery, Apache Spark
-
 
 Work Experience:
 
